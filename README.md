@@ -2,7 +2,7 @@
 
 A Streamlit-based web application that predicts the **risk of lung disease** based on various medical and lifestyle-related input parameters. The model is trained using a Random Forest Classifier on a curated dataset and provides a user-friendly interface for risk evaluation.
 
-
+Demo link: https://youtu.be/PIjjIW5D24A
 ##  How it Works
 
 The app accepts input from users for 19 parameters like:
